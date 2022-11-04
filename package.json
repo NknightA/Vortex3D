@@ -1,0 +1,22 @@
+{
+  "name": "@varius/vengine",
+  "version": "0.1.0",
+  "description": "Download links:",
+  "main": "main.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NknightA/Vengine.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "nknight amamiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NknightA/Vengine/issues"
+  },
+  "homepage": "https://github.com/NknightA/Vengine#readme"
+}
