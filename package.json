@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NknightA/Vengine/issues"
   },
+  "publishConfig": {
+    "@nknighta:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/NknightA/Vengine#readme"
 }
